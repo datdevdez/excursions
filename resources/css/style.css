@@ -1,1 +1,47 @@
-"" 
+/* ====================
+      GENERAL STYLES
+   ==================== */
+
+* {
+  padding: 0px;
+  margin: 20px 0;
+  box-sizing: border-box;
+  font-family: Verdana, "Sans Serif";
+}
+
+html {
+  background-color: black;
+  text-align: center;
+  color: white;
+}
+
+body {
+  padding: 0 15px;
+}
+
+h1 {
+  font-size: 50px;
+  font-weight: normal;
+}
+
+h2 {
+  font-size: 42px;
+  font-weight: 300;
+}
+
+p {
+  font-size: 21px;
+  color: gray;
+}
+
+a {
+  color: aquamarine;
+}
+
+/* ====================
+      FOOTER STYLES
+   ==================== */
+
+footer p {
+  text-align: right;
+}
